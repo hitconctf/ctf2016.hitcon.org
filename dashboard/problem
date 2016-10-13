@@ -1,0 +1,1183 @@
+<ul id="problem-list">
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-10">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Welcome</span><br>
+				<span class="tags">Reverse</span><br>
+			</p></div>
+			 
+			<div class="description"><p>}FTC NOCTIH ot emocleW{noctih</p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					723 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-10">
+				50
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-15">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Handcrafted pyc</span><br>
+				<span class="tags">Reverse</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Can your brain be a Python VM? (Please use Python 2.7)</p>
+
+<p><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/crackme.py_bc552f58fe2709225ca0768c131dd14934a47305"> crackme.py </a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					238 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-15">
+				50
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-28">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">ROP</span><br>
+				<span class="tags">Reverse</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Who doesn't like ROP?<br />Let's try some new features introduced in 2.3.<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/rop.iseq_a9ac4b7a1669257d0914ca556a6aa6d14b4a2092">rop.iseq</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					29 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-28">
+				250
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-35">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">MixerBox</span><br>
+				<span class="tags">Reverse</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Mixed-arch, mixerbox<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/mixerbox_0554647b3c61ae22c9ed2b4a9931a48ede542090">mixerbox</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					4 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-35">
+				300
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-29">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Omegamon</span><br>
+				<span class="tags">Reverse</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Omega Howling!<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/omegamon_28731e6187ba8df59cda67c640b1366e6fe43c8c">omegamon</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					7 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-29">
+				400
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-42">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Reverse</span><br>
+				<span class="tags">Reverse, PPC</span><br>
+			</p></div>
+			 
+			<div class="description"><p>At least our ETA is better than M$.<br />http://xkcd.com/612/<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/reverse_1adf2e3f99c5ddef9becd0ba154b7bfd4ecdddb8">reverse</a></p></div>
+			<div class="hint">
+				
+					
+						<p><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/reverse_slower_but_nicer_0137f3f427cd6dafd66121b3a5b9cfb0a0004a73">reverse_slower_but_nicer</a></p>
+					
+				
+			</div>
+			<span class="solved_times">
+				
+					1 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-42">
+				500
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-20">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Flame</span><br>
+				<span class="tags">PPC</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Evaluate your programming skill now</p>
+
+<p><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/flame_4a1f5a4d2eedfe718fee7eff429bb7e63a0c1b69">flame</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					69 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-20">
+				150
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-22">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Beelzemon</span><br>
+				<span class="tags">PPC</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Beelzemon gives you two integers 1 <= k <= n <= 20.<br />It wants to know if you can split a set {a | -(2**n) <= a <= (2**n) - 1} into two sets A, B s.t. |A| = |B| and sum({a**k | a in A}) = sum({b**k | b in B}).<br />Give Beelzemon either A or B to save your life. (separate the numbers by space)<br />nc 52.198.217.117 6666</p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					25 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-22">
+				150
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-4">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Secret Holder</span><br>
+				<span class="tags">Pwn</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Break the Secret Holder and find the secret.<br />nc 52.68.31.117 5566<br /><br/></p>
+
+<p><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/SecretHolder_d6c0bed6d695edc12a9e7733bedde182554442f8">SecretHolder</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					30 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-4">
+				100
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-34">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Sleepy Holder</span><br>
+				<span class="tags">Pwn</span><br>
+			</p></div>
+			 
+			<div class="description"><p>The Secret Holder has become sleepy and lazy now.<br />nc 52.68.31.117 9547<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/SleepyHolder_3d90c33bdbf3e5189febfa15b09ca5ee61b94015">SleepyHolder</a><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/libc.so.6_375198810bb39e6593a968fcbcf6556789026743"> libc.so.6 </a></p></div>
+			<div class="hint">
+				
+					
+						<p>malloc_consolidate</p>
+					
+				
+			</div>
+			<span class="solved_times">
+				
+					1 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-34">
+				300
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-16">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">ShellingFolder</span><br>
+				<span class="tags">Pwn</span><br>
+			</p></div>
+			 
+			<div class="description"><p>This is a magic folder.<br />nc 52.68.192.99 4869<br /><br/></p>
+
+<p><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/shellingfolder_42848afa70a13434679fac53a471239255753260">shellingfolder</a><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/libc.so.6_375198810bb39e6593a968fcbcf6556789026743">libc.so.6</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					39 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-16">
+				200
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-8">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Babyheap</span><br>
+				<span class="tags">Pwn</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Heap so fun! Baby, don't do it first.<br />nc 52.68.192.99 8731<br /><br/><br />note : the service is running on ubuntu 16.04</p>
+
+<p><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/babyheap_bb488b64300c18a3cd7c60ec1deac79cddb1327b"> babyheap </a><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/libc.so.6_375198810bb39e6593a968fcbcf6556789026743">libc.so.6</a></p></div>
+			<div class="hint">
+				
+					
+						<p>We are STRONGLY recommend that you try this challenge in 16.04 (or with the attached libc)</p>
+					
+				
+			</div>
+			<span class="solved_times">
+				
+					3 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-8">
+				300
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-3">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">OmegaGo</span><br>
+				<span class="tags">Pwn</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Want to fight with AlphaGo? Beat OmegaGo first.<br />nc 52.198.232.90 31337<br /><br/><br />Note: The game rule has been simplified to make life easier.</p>
+
+<p><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/omega_go_6eef19dbb9f98b67af303f18978914d10d8f06ac">omega_go </a><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/libc.so.6_8674307c6c294e2f710def8c57925a50e60ee69e"> libc.so.6 </a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					3 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-3">
+				350
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-12">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Heart Attack</span><br>
+				<span class="tags">Pwn</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Let's play Heart Attack together!<br />nc 52.68.31.117 22222<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/HeartAttack_9617a7e4641a15b3021108bc9369b5b8cfc57e34"> HeartAttack </a><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/libc.so.6_375198810bb39e6593a968fcbcf6556789026743"> libc.so.6 </a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					3 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-12">
+				400
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-24">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">House of Orange</span><br>
+				<span class="tags">Pwn</span><br>
+			</p></div>
+			 
+			<div class="description"><p>My teammate, Orange, need a house. Can you build it ? <br />nc 52.68.192.99 56746<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/houseoforange_22785bece84189e632567da38e4be0e0c4bb1682">hourseoforange</a><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/libc.so.6_375198810bb39e6593a968fcbcf6556789026743">libc.so.6</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					3 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-24">
+				500
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-9">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Are you rich?</span><br>
+				<span class="tags">Web</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Are you rich? Buy the flag!<br />http://52.197.184.164/are_you_rich/</p>
+
+<p><strong class="text-danger">ps. You should NOT pay anything for this challenge</strong></p>
+
+<p>Some error messages which is non-related to challenge have been removed</p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					249 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-9">
+				50
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-11">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Are you rich 2 ?</span><br>
+				<span class="tags">Web</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Are you rich? Buy the flag!<br />http://52.197.184.164/are_you_rich/</p>
+
+<p><strong class="text-danger">ps. You should NOT pay anything for this challenge</strong></p>
+
+<p>Some error messages which is non-related to challenge have been removed</p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					117 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-11">
+				100
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-17">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Secure Posts</span><br>
+				<span class="tags">Web</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Here is a service that you can store any posts. Can you hack it?<br />http://52.198.91.29/</p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					139 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-17">
+				50
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-18">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Secure Posts 2</span><br>
+				<span class="tags">Web</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Here is a service that you can store any posts. Can you hack it?<br />http://52.198.91.29/</p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					64 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-18">
+				150
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-39">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">%%%</span><br>
+				<span class="tags">Web, 🍊</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Although it is easy, but I still made this challenge because it is useful in penetration testing.</p>
+
+<p>This challenge doesn't allow DIRBUSTER or other SCANNER.</p>
+
+<p><a href='http://52.196.116.69/'>http://52.196.116.69/</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					70 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-39">
+				100
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-33">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Baby Trick</span><br>
+				<span class="tags">Web, 🍊</span><br>
+			</p></div>
+			 
+			<div class="description"><p>There is no SQL Injection anymore!<br /><a href='http://52.198.42.246/'>http://52.198.42.246/</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					24 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-33">
+				200
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-7">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Leaking</span><br>
+				<span class="tags">Web, 🍊</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Remote Code Execution!<br /><a href='http://52.198.115.130:3000/'>http://52.198.115.130:3000/</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					75 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-7">
+				200
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-6">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Angry Boy</span><br>
+				<span class="tags">Web, 🍊</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Why my teammate, Angelboy, is so angry?<br /><a href='http://52.196.144.8:8080/'>http://52.196.144.8:8080/</a></p></div>
+			<div class="hint">
+				
+					
+						<p>$ java -version<br />java version "1.7.0_111"<br />OpenJDK Runtime Environment (IcedTea 2.6.7) (7u111-2.6.7-0ubuntu0.14.04.3)<br />OpenJDK 64-Bit Server VM (build 24.111-b01, mixed mode)</p>
+					
+				
+			</div>
+			<span class="solved_times">
+				
+					43 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-6">
+				300
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-25">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Angry Seam</span><br>
+				<span class="tags">Web, 🍊</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Why my teammate, Sean, is so angry?<br /><a href='http://52.198.197.227:8080/angryseam/'>http://52.198.197.227:8080/angryseam/</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					4 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-25">
+				500
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-38">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Let&#39;s Decrypt</span><br>
+				<span class="tags">Crypto</span><br>
+			</p></div>
+			 
+			<div class="description"><p>It’s free, automated, and open.<br />nc 52.69.125.71 4443</p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					82 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-38">
+				100
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-21">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">OTP</span><br>
+				<span class="tags">Crypto</span><br>
+			</p></div>
+			 
+			<div class="description"><p>nc 52.198.182.219 50216</p></div>
+			<div class="hint">
+				
+					
+						<p><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/hint.c_46fb59c95380198458bc1db1a8afd1167df48406"> hint.c </a></p>
+					
+				
+			</div>
+			<span class="solved_times">
+				
+					12 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-21">
+				150
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-19">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">PAKE</span><br>
+				<span class="tags">Crypto</span><br>
+			</p></div>
+			 
+			<div class="description"><p>nc 52.198.13.246 20431<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/pake1.rb_c077fdcc6ed6488b53504bc8ad0069e8281ad21a"> pake1.rb </a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					7 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-19">
+				250
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-30">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">PAKE++</span><br>
+				<span class="tags">Crypto</span><br>
+			</p></div>
+			 
+			<div class="description"><p>nc 52.198.13.246 20432<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/pake2.rb_3a9fcc07faff2d8ff6f48c5636c52209fa2f8e51">pake2.rb</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					5 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-30">
+				150
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-5">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Hackpad</span><br>
+				<span class="tags">Crypto, Forensics</span><br>
+			</p></div>
+			 
+			<div class="description"><p>My site was hacked. The secret was leaked.<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/hackpad.pcap.xz_968494cea2c29140ee5e63e37c19cff2254f0229">hackpad.pcap.xz</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					65 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-5">
+				150
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-37">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">RSA</span><br>
+				<span class="tags">Crypto</span><br>
+			</p></div>
+			 
+			<div class="description"><p>nc 52.198.13.246 51415<br /><br/></p>
+
+<p><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/rsa.rb_3f81ea9cbc1cde6502057b2dd3da078ca8c23b66">rsa.rb</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					1 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-37">
+				400
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-32">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Swampmachine</span><br>
+				<span class="tags">Forensics</span><br>
+			</p></div>
+			 
+			<div class="description"><p>My machine is crushed by a lightning bolt ... but another spike spontaneously rearranges a bunch of bytes such that, entirely by coincidence, they are exactly the same as the flag ...<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/swampmachine.tar.xz_770b5e93903173b81078f084fed4f23baade6db9">swampmachine.tar.xz</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					3 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-32">
+				400
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-31">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">LogCenter</span><br>
+				<span class="tags">Misc, Pwn</span><br>
+			</p></div>
+			 
+			<div class="description"><p>I build a log server and implement a special function.<br />However, it seems to have a little problem ...<br />nc 52.198.182.219 22222<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/syslog-ng.tgz_39afc67a311555f30f71a989cd4151009a3b54d9">syslog-ng.tgz</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					3 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-31">
+				300
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-40">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Sharingan</span><br>
+				<span class="tags">Misc</span><br>
+			</p></div>
+			 
+			<div class="description"><p>nc 52.197.160.186 31337<br /><br/></p>
+
+<p><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/sharingan.rb_20a3d2497ad0292d72b4796754c5585523b3e985">sharingan.rb</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					38 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-40">
+				100
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-23">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">I&#39;m Here</span><br>
+				<span class="tags">Misc</span><br>
+			</p></div>
+			 
+			<div class="description"><p>nc 52.196.86.193 2507<br /><br/><br />BGM:<br />https://youtu.be/xG8--_OOWE0<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/imhere_ef8782baa5175194f5977cb87324517537279cb9">iamhere</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					13 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-23">
+				200
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-14">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">RegExpert</span><br>
+				<span class="tags">Misc</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Do you remember "hard to say" last year?<br />I think this one is harder to say...<br />nc 52.69.125.71 2171</p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					59 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-14">
+				200
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-36">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Hold Fast</span><br>
+				<span class="tags">Misc</span><br>
+			</p></div>
+			 
+			<div class="description"><p>There is a correct POWer. But it can't finish the Super POW due to Time Limit Exceeded.<br />Pass the POW fast and Prove that you are a Super POWer.</p>
+
+<p>http://52.197.253.8:8889/<br /><br/><br />BGM:<br />https://youtu.be/n9pBlWyW1z4<br /><br/></p>
+
+<p><a href="https://goo.gl/UkaR7X">sandbox</a><br /><a href="https://goo.gl/lyQajP">slowpow</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					2 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-36">
+				200
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-41">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Hold Faster</span><br>
+				<span class="tags">Misc</span><br>
+			</p></div>
+			 
+			<div class="description"><p>There is a correct POWer. But it can't finish the Super POW due to Time Limit Exceeded.<br />Pass the POW fast and Prove that you are a Super POWer.</p>
+
+<p>http://52.198.155.146:9999/<br /><br/><br />BGM:<br />https://youtu.be/n9pBlWyW1z4<br /><br/></p>
+
+<p>PS. The system is readonly for your program.</p>
+
+<p><a href="https://goo.gl/UkaR7X">sandbox</a><br /><a href="https://goo.gl/lyQajP">slowpow</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-41">
+				300
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-27">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">moRE</span><br>
+				<span class="tags">Misc</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Hi, our RegExpert, I know you want moRE.<br />nc 52.69.125.71 2172</p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					11 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-27">
+				350
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-13">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">TNT</span><br>
+				<span class="tags">Misc</span><br>
+			</p></div>
+			 
+			<div class="description"><p>Explode this service<br />nc 52.198.231.5 22222<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/TNT.tar.xz_080b984e0fdd0fb3224284c11bc56ac02974333b"> TNT.tar.xz </a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					3 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-13">
+				500
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked" id="problem-id-26">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">The 90s</span><br>
+				<span class="tags">Reverse, Pwn</span><br>
+			</p></div>
+			 
+			<div class="description"><p>nodejs v4.2.6 / Ubuntu 16.04</p>
+
+<p>nc 52.68.185.227 1984<br /><br/><br />BGM:<br />https://youtu.be/Hio0iH1IQl8<br /><br/><br /><a href="https://s3-ap-northeast-1.amazonaws.com/hitcon2016qual/the90s.zip_37af37d67ee05b020738d8699f4876d632b238c9">the90s.zip</a></p></div>
+			<div class="hint">
+				
+			</div>
+			<span class="solved_times">
+				
+					1 Teams solved.
+				
+			</span>
+			 
+		</div>
+		<ul class="flag-list">
+			<li id="flag-id-26">
+				500
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	<li class="clearfix"></li>
+</ul>
+
